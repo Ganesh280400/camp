@@ -23,7 +23,7 @@ public class VarDemo {
 		System.out.println(i + j);
 
 		VarDemo v = new VarDemo();
-		System.out.println(VarDemo2.s);
+		
 		v.add();
 	}
 
