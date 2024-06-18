@@ -11,7 +11,11 @@ public class VarTest {
 	System.out.println("his role is :"+role);
 	System.out.println("his age is :"+age);
 	
-
+	
+	for(int i=0;i<10;i++) {
+		System.out.println(i);
+		
 	}
 
+	}
 }
